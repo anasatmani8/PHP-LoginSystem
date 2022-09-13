@@ -15,7 +15,7 @@ require "header.php";
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-rak kayn
+  <span>login has been successfully completed </span>
 
 </body>
 </html>
